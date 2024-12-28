@@ -2,11 +2,11 @@
 	{
 		"name": "Obnimaylo",
 		"unitType": "Sword",
-		"uniqueTo": "Rome",
+		"uniqueTo": "Baselkoi Knyazdom",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 14,
-		"cost": 75,
+		"cost": 90,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
