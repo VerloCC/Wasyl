@@ -1,41 +1,39 @@
 [
 	{
-		"name": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-		"leaderName": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-		"adjective": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"],
-		"startBias": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"],
-		"preferredVictoryType": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"name": "Baselkoi Knyazdom",
+		"leaderName": "Basil",
+		"adjective": ["Baselkovichy"],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-		"startIntroPart2": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"startIntroPart1": "Hi Basil,you are sweet knyaz.",
+		"startIntroPart2": "Be sweetheart and win, blah blah blah, here we go!",
 		
-		"declaringWar": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-		"attacked": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-		"defeated": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-		"introduction": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"declaringWar": "Sorry but y'all need to be hugged.",
+		"attacked": "Poopshitter.",
+		"defeated": "Bye bye ~makes mewing and fades away~",
+		"introduction": "Hi.",
 		
-		"neutralHello": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-		"neutralLetsHearIt": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"],
-		"neutralNo": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"],
-		"neutralYes": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"],
+		"neutralHello": "Hi~",
+		"neutralLetsHearIt": ["Lemme hear ya out."],
+		"neutralNo": ["No"],
+		"neutralYes": ["Yes"],
 
-		"hateHello": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-		"hateLetsHearIt": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"],
-		"hateNo": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"],
-		"hateYes": ["XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"],
+		"hateHello": "Hi",
+		"hateLetsHearIt": ["You are poopshitter,we don't befriend with ones."],
+		"hateNo": ["No"],
+		"hateYes": ["Yes"],
 		
-		"afterPeace": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-		"tradeRequest": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-
-		"outerColor": [151, 26, 62],
-		"innerColor": [0,0,0],
-		"uniqueName": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-		"uniques": ["[-10]% [Happiness]", "[-80]% [Happiness] [in puppeted cities]", "May not annex cities", "[-40]% growth [in puppeted cities]",
-			"Quantity of strategic resources produced by the empire [+100]%", "[+40]% [Gold] [in all cities]", "Science gained from research agreements [+25]%",
-			"[+50]% maintenance costs <for [All] units>", "[+20]% Strength for cities", "When declaring friendship, both parties gain a [25]% boost to great person generation",
-			"[+100]% [Science]", "[1] additional attacks per turn",  "[-50]% construction time for [All] improvements", 
-			"Cities are razed [20] times as fast", "[+20]% Strength for cities", "Will not be displayed in Civilopedia"],
-		"cities": ["XTC-Secotr 01","Sub-Sector I","Sub-Sector II","Sub-Sector III","Sub-Sector IV","Sub-Sector V","Sub-Sector VI",
-			"Sub-Sector VII","Sub-Sector VIII","Sub-Sector IX","Sub-Sector X"]
+		"afterPeace": "Pwease, let just hug eachother and get away.",
+		"tradeRequest": "Hi, buy this or I'll hug you to death.",
+		
+		"favoredReligion": "Judaism",
+		"outerColor": [25, 73, 214],
+		"innerColor": [88, 132, 254],
+		"uniqueName": "Basil's Code of Cuties",
+		"uniques": ["[+1 Happiness] from all [Happiness] buildings", "[+1 Happiness] from every specialist [in all cities]"],
+		"cities": ["Knyazhy Dim","Bolotne","Lyublyache","Myrne","Zahodnica","Hrestne","Pozorne",
+			"Wasylyograd","Hey Wasyl~","Easter Egg","You actually got this many cities???"],
+		"spyNames": ["Basil", "Valentina", "Gafazt", "Buglord", "Gumbo mumbo", "Hey Wasyl~~"]
 	}
 ]
