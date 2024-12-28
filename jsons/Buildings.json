@@ -2,7 +2,7 @@
 	{
 		"name": "Academy Of Talents",
 		"replaces": "University",
-		"uniqueTo": "Egypt",
+		"uniqueTo": "Baselkoi Knyazdom",
 		"cost": 90,
 		"maintenance": 5,
 		"hurryCostModifier": 15,
