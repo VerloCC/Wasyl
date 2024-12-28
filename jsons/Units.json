@@ -11,6 +11,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
+		"uniques": ["Nuclear weapon of Strength [3]"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}
