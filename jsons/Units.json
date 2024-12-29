@@ -11,7 +11,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
-		"uniques": ["Nuclear weapon of Strength [3]"],
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}
