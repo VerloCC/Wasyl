@@ -1,0 +1,41 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Academy Of Talents
+  rotate: false
+  xy: 1292, 1620
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+LeaderIcons/Basil
+  rotate: false
+  xy: 4, 640
+  size: 1280, 1280
+  orig: 1280, 1280
+  offset: 0, 0
+  index: -1
+NationIcons/Baselkoi Knyazdom
+  rotate: false
+  xy: 4, 4
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Steel Valkyrie
+  rotate: false
+  xy: 4, 312
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+UnitIcons/Obnimaylo
+  rotate: false
+  xy: 332, 332
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
